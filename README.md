@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Linux**
 
-- 📫 How to reach me **measkswho@gmail.com**
+- 📫 How to reach me **profwinfred@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
