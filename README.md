@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **C, Python, Javascript**
 
-- 💬 Ask me about **Data Science**
+- 💬 Ask me about **Data Science, Linux Shell**
 
 - 📫 How to reach me **profwinfred@gmail.com**
 
