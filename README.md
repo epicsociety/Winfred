@@ -1,5 +1,5 @@
 [![MasterHead](https://japaneselevelup.com/wp-content/uploads/2018/05/Why-Programmers-Like-Japanese-Why-Japanese-Learners-like-Programming-2.jpeg)](https://epicsociety.io)
-<h1 align="center">Hi 👋, I'm Winfred Kiarie</h1>
+<h1 align="center">Hi 👋</h1>
 <h3 align="center">A passionate software developer/data scientist from Kenya</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/whgQwNlVvNkAAAAi/xero-code.gif">
 
