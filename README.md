@@ -24,3 +24,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=epicsociety&show_icons=true&locale=en" alt="epicsociety" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=epicsociety&" alt="epicsociety" /></p>
+
+[![js-semistandard-style](https://raw.githubusercontent.com/standard/semistandard/master/badge.svg)](https://github.com/standard/semistandard)
