@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Data Science, Linux Shell**
 
-- 📫 How to reach me **profwinfred@gmail.com**
+- 📫 How to reach me **Linkedin**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
