@@ -73,8 +73,9 @@
 </p>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
 
-<!--<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=epicsociety&show_icons=true&locale=en&layout=compact" alt="epicsociety" /></p>
--->
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=epicsociety&show_icons=true&locale=en" alt="epicsociety" /></p>
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=epicsociety&show_icons=true&locale=en" alt="epicsociety" /></p> -->
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=epicsociety&show_icons=true&locale=en&layout=compact" alt="epicsociety" /></p>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=epicsociety&" alt="epicsociety" /></p>
